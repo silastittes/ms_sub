@@ -1,4 +1,4 @@
-- Simple program to break up `ms` file output into two files. 
+# Simple program to break up `ms` file output into two files. 
 
 This script serves a pretty specific purpose for me to assess accuracy of selective sweeps from two subsamples.
 
